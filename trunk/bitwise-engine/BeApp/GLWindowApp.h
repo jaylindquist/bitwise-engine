@@ -9,6 +9,16 @@
 namespace BitwiseEngine
 {
 
+
+/********************************************
+*
+* GLWindowApp - create an application using
+*	an OpenGL window
+*
+* Fill in any virtual methods as needed
+*
+********************************************/
+
 class BE_APPLICATION_ITEM GLWindowApp : public WindowApp
 {
 public:	
