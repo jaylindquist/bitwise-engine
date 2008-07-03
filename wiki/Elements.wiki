@@ -1,5 +1,5 @@
 #summary High level overview of elements in the project
-#labels Phase-Requirements
+#labels Phase-Requirements,Featured
 
 = Project Elements =
 
