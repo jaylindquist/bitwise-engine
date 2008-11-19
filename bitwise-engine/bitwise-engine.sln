@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitwise-engine", "bitwise-engine.vcproj", "{12CD9DF9-9A42-4301-A885-A1658C695E2F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTests", "UnitTests\UnitTests.vcproj", "{23A8EF1A-56E3-4716-8E5F-8EA326DC0063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CD9DF9-9A42-4301-A885-A1658C695E2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12CD9DF9-9A42-4301-A885-A1658C695E2F}.Debug|Win32.Build.0 = Debug|Win32
+		{12CD9DF9-9A42-4301-A885-A1658C695E2F}.Release|Win32.ActiveCfg = Release|Win32
+		{12CD9DF9-9A42-4301-A885-A1658C695E2F}.Release|Win32.Build.0 = Release|Win32
+		{23A8EF1A-56E3-4716-8E5F-8EA326DC0063}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23A8EF1A-56E3-4716-8E5F-8EA326DC0063}.Debug|Win32.Build.0 = Debug|Win32
+		{23A8EF1A-56E3-4716-8E5F-8EA326DC0063}.Release|Win32.ActiveCfg = Release|Win32
+		{23A8EF1A-56E3-4716-8E5F-8EA326DC0063}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
