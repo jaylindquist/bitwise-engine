@@ -1,11 +1,7 @@
 #pragma once;
+namespace BitwiseEngine {
 
-
-namespace BitwiseEngine
-{
-
-namespace Utils
-{
+namespace Utils {
 
 template<class T>
 class Singleton

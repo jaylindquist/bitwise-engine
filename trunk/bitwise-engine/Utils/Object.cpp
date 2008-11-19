@@ -1,7 +1,7 @@
 #include "Object.h"
 #include <sstream>
 
-using namespace BitwiseEngine;
+using namespace BitwiseEngine::Utils;
 
 unsigned int Object::ms_nextID = 0;
 

@@ -5,6 +5,8 @@
 
 namespace BitwiseEngine {
 
+namespace Utils {
+
 class CommandLine
 {
 public:
@@ -58,4 +60,5 @@ CommandLine::GetOpt(const char* optName, T& optVal) const
 	return false;
 }
 
-}
+};
+};

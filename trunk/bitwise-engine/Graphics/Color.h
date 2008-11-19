@@ -1,13 +1,9 @@
 #pragma once
+#include <BitwiseEngine/Math/Real.h>
 
+namespace BitwiseEngine {
 
-#include "Math/Real.h"
-
-namespace BitwiseEngine
-{
-
-namespace Graphics
-{
+namespace Graphics {
 
 class Color
 {

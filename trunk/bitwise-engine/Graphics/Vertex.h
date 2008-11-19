@@ -1,13 +1,10 @@
 #pragma once
+#include <BitwiseEngine/Math/Real.h>
+#include <BitwiseEngine/Graphics/Real.h>
 
-#include "../Math/Real.h"
-#include "../Graphics/Real.h"
+namespace BitwiseEngine {
 
-namespace BitwiseEngine
-{
-
-namespace Graphics
-{
+namespace Graphics {
 
 class Vertex
 {

@@ -1,5 +1,7 @@
 namespace BitwiseEngine {
 
+namespace Utils {
+
 template<class T>
 class RefPtr
 {
@@ -109,4 +111,5 @@ protected:
 };
 
 
-}
+};
+};
