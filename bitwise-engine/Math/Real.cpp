@@ -1,5 +1,7 @@
 #include "Real.h"
 
+using namespace BitwiseEngine::Math;
+
 Real RealHelper::ZERO = RealHelper::fromFloat(0.0f);
 Real RealHelper::ONE = RealHelper::fromFloat(1.0f);
 

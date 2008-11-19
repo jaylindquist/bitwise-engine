@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <VisualStudioProject
 	ProjectType="Visual C++"
-	Version="8.00"
+	Version="9.00"
 	Name="bitwise-engine"
 	ProjectGUID="{12CD9DF9-9A42-4301-A885-A1658C695E2F}"
 	RootNamespace="bitwiseengine"
 	Keyword="Win32Proj"
+	TargetFrameworkVersion="131072"
 	>
 	<Platforms>
 		<Platform
@@ -206,10 +207,6 @@
 					>
 				</File>
 				<File
-					RelativePath=".\Graphics\Vector3.h"
-					>
-				</File>
-				<File
 					RelativePath=".\Graphics\Vertex.h"
 					>
 				</File>
@@ -219,10 +216,6 @@
 				>
 				<File
 					RelativePath=".\Graphics\Color.cpp"
-					>
-				</File>
-				<File
-					RelativePath=".\Graphics\Vector3.cpp"
 					>
 				</File>
 			</Filter>
@@ -237,12 +230,20 @@
 					RelativePath=".\Math\Real.h"
 					>
 				</File>
+				<File
+					RelativePath=".\Graphics\Vector3.h"
+					>
+				</File>
 			</Filter>
 			<Filter
 				Name="Source Files"
 				>
 				<File
 					RelativePath=".\Math\Real.cpp"
+					>
+				</File>
+				<File
+					RelativePath=".\Graphics\Vector3.cpp"
 					>
 				</File>
 			</Filter>

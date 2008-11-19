@@ -4,7 +4,7 @@
 #include <sstream>
 
 using namespace std;
-using namespace BitwiseEngine;
+using namespace BitwiseEngine::Utils;
 
 CommandLine::CommandLine(int argc, char** argv)
 {

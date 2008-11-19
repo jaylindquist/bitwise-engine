@@ -3,6 +3,7 @@
 
 namespace BitwiseEngine {
 
+namespace Utils {
 class Object
 {
 public:
@@ -21,4 +22,5 @@ private:
 	int m_references;
 };
 
-}
+};
+};

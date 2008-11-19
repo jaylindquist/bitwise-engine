@@ -1,10 +1,8 @@
 #pragma once
 
-namespace BitwiseEngine
-{
+namespace BitwiseEngine {
 
-namespace Math
-{
+namespace Math {
 
 #ifdef BE_REAL_DOUBLE
 typedef double Real
